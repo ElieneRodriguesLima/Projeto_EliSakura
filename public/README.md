@@ -10,5 +10,8 @@ O controle das tarefas dessse projeto será realizado no GitHub
 
 :package: nova funcionalidade
 :up: atualização
-:beatle: correção de bug
+:beetle: correção de bug
 :checkered_flag: release
+
+# Back-end
+usar o python ou js
