@@ -282,7 +282,7 @@ section h1 {
 
 /* Container2 parte do login*/
 
-.container2 {
+.recipiente {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -400,7 +400,7 @@ section h1 {
     align-items: center;
 }
 
-.social-media2 {
+.social-media {
     margin: 1rem 0;
     margin-bottom: 1rem;
 }
